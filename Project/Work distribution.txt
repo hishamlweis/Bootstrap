@@ -1,0 +1,8 @@
+Navbar (Khalil Hariri)
+Banner section (Khalil Harir)
+Skills section (Hisham Lweis) 
+Projects section (Hiba Anadani)
+Team section (Mohammad Batal)
+Progress section (Tarek Kassab)
+Contact section (Karim Tabaja)
+Footer (Rachidi Tamara)
